@@ -1,9 +1,12 @@
 fastapi
 uvicorn
+pydantic
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
 numpy
 pandas
 scikit-learn
 joblib
 psycopg2-binary
-python-dotenv
-python-jose[cryptography]
+shap
